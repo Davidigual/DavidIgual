@@ -15,7 +15,7 @@
       <h3 align="center"><strong>ESTADÍSTICAS EN RACHA</strong></h3>
       <p align="center">
         <a href="https://github.com/Davidigual>
-          <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DavidIgual&theme=vue-dark&hide_border=true" alt="mystreak"/>
+          <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ToniClimentPerez&theme=tokyonight" alt="mystreak"/>
         </a>
       </p>
     </td>
