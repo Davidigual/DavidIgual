@@ -8,8 +8,8 @@
       <h3 align="center"><strong>ESTADISTICAS GITHUB</strong></h3>
       <p align="center">
         <a href="https://github.com/Davidigual/DavidIgual">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Davidigual&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
-        </a>
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Davidigual&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
+            </a>
       </p>
     </td>
     <td width="50%">
