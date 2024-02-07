@@ -22,10 +22,10 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>ULTIMO PROJECTO</strong></h3>
+      <h3 align="center"><strong>LENGUAJES USADOS</strong></h3>
       <p align="center">
         <a href="https://github.com/Davidigual/DavidIgual/cryptos">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Davidigual/DavidIgual&repo=cryptos&theme=nightowl&show_owner=true" alt="Cryptos Project" />
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight" />
         </a>
       </p>
     </td>
