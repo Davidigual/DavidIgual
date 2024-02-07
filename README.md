@@ -1,6 +1,6 @@
 ### Hi there 
 <!--Github stats Table--> 
-<h2 align="center">📊 Gɪᴛʜᴜʙ eSTADISTICAS 📊</h2>
+<h2 align="center">📊 Gɪᴛʜᴜʙ ESTADISTICAS 📊</h2>
 
 <table width="100%">
   <tr>
@@ -16,7 +16,7 @@
       <h3 align="center"><strong>ESTADISTICAS EN RACHA</strong></h3>
       <p align="center">
         <a href="https://github.com/Davidigual/DavidIgual>
-          <img align="center" src="https://streak-stats.demolab.com?user=Davidigual/DavidIgual&theme=nightowl" alt="Streak Stats" />
+          <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Davidigual&theme=vue-dark&hide_border=true" />
         </a>
       </p>
     </td>
