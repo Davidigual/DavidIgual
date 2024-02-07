@@ -11,13 +11,8 @@
       </p>
     </td>
 </tr>
-    <tr>
-       <td width="50%">
-      <p align="center">
-        <img align="center" width="470" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Faa%2F1f%2Fa3%2Faa1fa339ed48e8b383fdf0964998de49.gif&tbnid=H01GpyO122GgPM&vet=12ahUKEwir2MnT8ZmEAxX-VaQEHQvmCbEQMygQegUIARCAAQ..i&imgrefurl=https%3A%2F%2Fwww.pinterest.es%2Fpin%2F496099715208847636%2F&docid=T2LakD0Qr0EGoM&w=488&h=301&q=gifs%20informatica&ved=2ahUKEwir2MnT8ZmEAxX-VaQEHQvmCbEQMygQegUIARCAAQ" />
-      </p>
-    </td>
-    </tr>
+ ![download](https://github.com/Davidigual/DavidIgual/assets/146463390/eb4efeaf-018b-4de8-889a-87e3196d53b5)
+
     <td width="50%">
       <h3 align="center"><strong>LENGUAJES MÁS USADOS</strong></h3>
       <p align="center">
