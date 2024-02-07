@@ -19,6 +19,7 @@
         </a>
       </p>
     </td>
+    <tr>
     <td width="50%">
      <h2 align="center">GRÁFICO CONTRIBUCIONES</h2>
 <div align="center">
