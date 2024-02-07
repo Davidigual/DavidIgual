@@ -8,7 +8,8 @@
         <a href="https://github.com/Davidigual/DavidIgual">
           <img align="center" src="https://github-readme-stats.vercel.app/api?username=Davidigual&count_private=true&show_icons=trueline_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite"/>
             </a>
-      </p>
+      </p>![download](https://github.com/Davidigual/DavidIgual/assets/146463390/86424282-fb63-4e64-9b7c-70660f963434)
+
     </td>
 </tr>
     <tr><
