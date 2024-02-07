@@ -11,14 +11,6 @@
             </a>
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center"><strong>ESTADÍSTICAS EN RACHA</strong></h3>
-      <p align="center">
-        <a href="https://github.com/Davidigual>
-          <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Davidigual&theme=tokyonight" alt="mystreak"/>
-        </a>
-      </p>
-    </td>
   </tr>
   <tr>
     <td width="50%">
