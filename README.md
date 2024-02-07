@@ -1,6 +1,6 @@
 <!--Github stats Table--> 
 <h2 align="center">📊 Gɪᴛʜᴜʙ ESTADÍSTICAS 📊</h2>
-
+<tr>
 <table width="100%">
     <td width="50%">
       <h3 align="center"><strong>ESTADÍSTICAS GITHUB</strong></h3>
@@ -10,6 +10,7 @@
             </a>
       </p>
     </td>
+</tr>
     <td width="50%">
       <h3 align="center"><strong>LENGUAJES MÁS USADOS</strong></h3>
       <p align="center">
