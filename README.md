@@ -6,7 +6,7 @@
       <h3 align="center"><strong>ESTADÍSTICAS GITHUB</strong></h3>
       <p align="center">
         <a href="https://github.com/Davidigual/DavidIgual">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Davidigual&count_private=true&show_icons=trueline_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite/>
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Davidigual&count_private=true&show_icons=trueline_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite"/>
             </a>
       </p>
     </td>
