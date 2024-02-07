@@ -36,3 +36,6 @@
 </table>
 <br />
 </div>
+<a href="https://github.com/Davidigual/to-do-list-flask">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davidigual&repo=to-do-list-flask&theme=onedark" />
+</a>   
