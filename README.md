@@ -2,7 +2,6 @@
 <h2 align="center">📊 Gɪᴛʜᴜʙ ESTADÍSTICAS 📊</h2>
 
 <table width="100%">
-  <tr>
     <td width="50%">
       <h3 align="center"><strong>ESTADÍSTICAS GITHUB</strong></h3>
       <p align="center">
@@ -11,7 +10,7 @@
             </a>
       </p>
     </td>
-  </tr>
+  
   <tr>
     <td width="50%">
       <h3 align="center"><strong>LENGUAJES MÁS USADOS</strong></h3>
