@@ -1,10 +1,10 @@
 <!--Github stats Table--> 
-<h2 align="center">📊 Gɪᴛʜᴜʙ ESTADISTICAS 📊</h2>
+<h2 align="center">📊 Gɪᴛʜᴜʙ ESTADÍSTICAS 📊</h2>
 
 <table width="100%">
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>ESTADISTICAS GITHUB</strong></h3>
+      <h3 align="center"><strong>ESTADÍSTICAS GITHUB</strong></h3>
       <p align="center">
         <a href="https://github.com/Davidigual/DavidIgual">
           <img align="center" src="https://github-readme-stats.vercel.app/api?username=Davidigual&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
@@ -12,7 +12,7 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>ESTADISTICAS EN RACHA</strong></h3>
+      <h3 align="center"><strong>ESTADÍSTICAS EN RACHA</strong></h3>
       <p align="center">
         <a href="https://github.com/Davidigual/DavidIgual>
           <img align="center" src="![Davidigual's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Davidigual&theme=vue-dark&hide_border=true)" />
@@ -30,7 +30,7 @@
       </p>
     </td>
     <td width="50%">
-     <h2 align="center">GRAFICO CONTRIBUCIONES</h2>
+     <h2 align="center">GRÁFICO CONTRIBUCIONES</h2>
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Davidigual&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
 </div>
