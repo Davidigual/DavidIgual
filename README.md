@@ -11,6 +11,7 @@
       </p>
     </td>
 </tr>
+    <tr>
     <td width="50%">
       <h3 align="center"><strong>LENGUAJES MÁS USADOS</strong></h3>
       <p align="center">
@@ -19,6 +20,7 @@
         </a>
       </p>
     </td>
+        </tr>
     <td width="50%">
      <h2 align="center">GRÁFICO CONTRIBUCIONES</h2>
 <div align="center">
