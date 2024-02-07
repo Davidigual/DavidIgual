@@ -11,8 +11,7 @@
       </p>
     </td>
 </tr>
- ![download](https://github.com/Davidigual/DavidIgual/assets/146463390/eb4efeaf-018b-4de8-889a-87e3196d53b5)
-
+ <img align="center" src=" https://github.com/Davidigual/DavidIgual/assets/146463390/eb4efeaf-018b-4de8-889a-87e3196d53b5"/
     <td width="50%">
       <h3 align="center"><strong>LENGUAJES MÁS USADOS</strong></h3>
       <p align="center">
