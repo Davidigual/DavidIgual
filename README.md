@@ -17,7 +17,7 @@
       <h3 align="center"><strong>LENGUAJES MÁS USADOS</strong></h3>
       <p align="center">
         <a href="https://github.com/Davidigual/DavidIgual/cryptos">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidigual&theme=tokyonight" />
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidigual&&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
         </a>
       </p>
     </td>
