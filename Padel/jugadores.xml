@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Jugadores>
+    <jugador>
+        <apellidos>Parv</apellidos>
+        <dni>18123456I</dni>
+        <nombre>Lucas</nombre>
+    </jugador>
+    <jugador>
+        <apellidos>Porro</apellidos>
+        <dni>18435654G</dni>
+        <nombre>Pedro</nombre>
+    </jugador>
+    <jugador>
+        <apellidos>Borja</apellidos>
+        <dni>18456345J</dni>
+        <nombre>Ale</nombre>
+    </jugador>
+    <jugador>
+        <apellidos>Climent</apellidos>
+        <dni>18456789P</dni>
+        <nombre>Antonio</nombre>
+    </jugador>
+    <jugador>
+        <apellidos>Lopez macarra?a</apellidos>
+        <dni>1845965L</dni>
+        <nombre>Paco</nombre>
+    </jugador>
+    <jugador>
+        <apellidos>Igual Peralta</apellidos>
+        <dni>18468950L</dni>
+        <nombre>David</nombre>
+    </jugador>
+    <jugador>
+        <apellidos>Picapiedra</apellidos>
+        <dni>22222222Y</dni>
+        <nombre>Pedro</nombre>
+    </jugador>
+    <jugador>
+        <apellidos>Locales</apellidos>
+        <dni>33333333T</dni>
+        <nombre>Numancia</nombre>
+    </jugador>
+    <jugador>
+        <apellidos>Martin</apellidos>
+        <dni>55555555R</dni>
+        <nombre>Clau</nombre>
+    </jugador>
+</Jugadores>
